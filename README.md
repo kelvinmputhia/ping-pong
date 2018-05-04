@@ -2,7 +2,7 @@
 ## Description
 this is a web application that makes a number from a user and return a range of numbers from 1 to the chosen ps;
 ## Setup/Installation Requirements
-* you can view this project through any browser by clicking at this link https://github.com/kelvinmputhia/ping-pong.git
+* you can view this project through any browser by clicking at this link https://kelvinmputhia.github.io/ping-pong/
 ## Known Bugs
 i had a problem with my javascript it was not responding to my arguments but i deleted it and downloaded anew one
 ## Technologies Used
