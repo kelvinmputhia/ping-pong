@@ -33,10 +33,34 @@ h1{ background-color: grey;
 
 #PongP{
 	text-align: center;
-  background: brown;
+  background: orange;
 	margin-top: 20px;
 }
 
 #PongP2{
-  background: blue;
+  background: white;
 }
+
+#about{
+  text-decoration: underline;
+}
+
+.main2{
+	height: 100vh;
+	margin-left: 60px;
+	margin-top: 80px;
+  background-image: url("../img/ping-pong.jpg");
+}
+
+h2{
+  text-align: center;
+  color: white;
+}
+
+p{
+  text-align: center;
+}
+
+body{
+	background-image: url("../img/pingocean.jpg");
+	background-size: cover;
